@@ -1,0 +1,44 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 56c5d3c..5397ba9 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -13,4 +13,36 @@[m [mAté o momento foram criados:[m
+ - Página de produtos[m
+ - Estilização inicial[m
+ - Página de pedidos[m
+[31m-- Documentação de pedidos[m
+\ No newline at end of file[m
+[32m+[m[32m- Documentação de pedidos[m
+[32m+[m
+[32m+[m[32m## Questionário[m
+[32m+[m
+[32m+[m[32m### Qual é a diferença entre Working Directory, Staging Area e Repository?[m
+[32m+[m
+[32m+[m[32mO Working Directory é onde ficam os arquivos que estamos trabalhando.[m
+[32m+[m
+[32m+[m[32mA Staging Area é onde ficam os arquivos preparados para o próximo commit.[m
+[32m+[m
+[32m+[m[32mO Repository é onde ficam armazenados os commits e o histórico do projeto.[m
+[32m+[m
+[32m+[m[32m### Qual é a diferença entre git commit e git push?[m
+[32m+[m
+[32m+[m[32mO git commit salva as alterações no repositório local.[m
+[32m+[m
+[32m+[m[32mO git push envia os commits locais para o repositório remoto no GitHub.[m
+[32m+[m
+[32m+[m[32m### É possível realizar vários commits antes de executar um git push?[m
+[32m+[m
+[32m+[m[32mSim. Podemos realizar vários commits localmente antes de executar o git push.[m
+[32m+[m
+[32m+[m[32m### Por que é interessante realizar commits pequenos e descritivos?[m
+[32m+[m
+[32m+[m[32mPorque facilita entender o histórico do projeto e identificar o que foi alterado em cada etapa.[m
+[32m+[m
+[32m+[m[32m### O que acontece com os commits locais quando ainda não executamos o git push?[m
+[32m+[m
+[32m+[m[32mEles continuam salvos no repositório local, mas ainda não foram enviados para o GitHub.[m
+[32m+[m
+[32m+[m[32m### Como verificar, pelo GitHub, se os commits foram enviados corretamente?[m
+[32m+[m
+[32m+[m[32mPodemos acessar o repositório no GitHub e verificar o histórico de commits.[m
+\ No newline at end of file[m
