@@ -1,3 +1,4 @@
+\\João gabriel da Silva Canonica
 # MeuPrimeiroGit
 
 Projeto de uma pequena lanchonete.
